@@ -1,0 +1,1 @@
+This is the official repo for Open Source Africa's orgranization website.
